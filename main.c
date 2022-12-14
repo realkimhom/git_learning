@@ -143,6 +143,6 @@ int main() {
         fprintf(fo,"Is it balanced? No\n");
     }
     fclose(fo);
-
+    printf("Its all over now baby blue.\n");
     return 0;
 }
