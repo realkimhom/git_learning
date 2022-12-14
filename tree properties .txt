@@ -1,0 +1,3 @@
+Is the tree complete? Yes
+What’s the height of the tree? 5
+Is it balanced? No
